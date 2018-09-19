@@ -1,0 +1,3 @@
+1. Write a shell script in opshell.sh
+2. $ chmod +x opshell.sh start.sh
+3. ./start.sh
